@@ -1,0 +1,27 @@
+Arquivos armazenam tabelas e tabelas armazenam registros
+
+Banco de dados é composto basicamente por:
+|=>Base de Dados, que é os dados propiamente ditos.
+|=>Sistema Gerenciador (SGBD ou DMS).
+|=>Linguagem de exploração(query language).
+|=>Programas Adicionais, como gerencia de usuários,
+   otimização de arquivos e etc.
+
+Modelo de banco de dados:
+|-Modelo Hierarquico
+|-Modelo em Rede
+|-Modelo Relacional
+|-Modelo baseado a Documento
+|-Modelo orientado a objetos
+
+ALGUNS BANCO DE DADOS RELACIONAIS ATUAIS
+|Enterprise:
+||=>Oracle
+||=>IBM
+||=>dBASE
+||=>Microsoft SQL server
+|Free:
+||=>MySQL
+||=>MariaDB
+||=>FireBird
+||=>Postrgre SQL
